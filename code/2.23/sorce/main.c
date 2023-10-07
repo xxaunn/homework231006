@@ -26,7 +26,7 @@ int main()
 		}
 	}
 
-	printf("smallest:%d\nlargest:%d",sma, lar);
+	printf("smallest:%d\nlargest:%d\n",sma, lar);
 	system("pause");
 	return 0;
 }

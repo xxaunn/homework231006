@@ -11,7 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="..\sorce\main.c">
       <Filter>sorce</Filter>
     </ClCompile>
   </ItemGroup>
